@@ -67,8 +67,8 @@ UPDATE_PACKAGE "qbittorrent" "sbwml/luci-app-qbittorrent" "master" "" "qt6base q
 UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
-UPDATE_PACKAGE "vlmcsd" "flytosky-f/openwrt-vlmcsd" "master"
-UPDATE_PACKAGE "luci-app-vlmcsd" "flytosky-f/luci-app-vlmcsd" "master"
+UPDATE_PACKAGE "vlmcsd" "siwind/openwrt-vlmcsd" "master"
+UPDATE_PACKAGE "luci-app-vlmcsd" "siwind/luci-app-vlmcsd" "master"
 
 #更新软件包版本
 UPDATE_VERSION() {
