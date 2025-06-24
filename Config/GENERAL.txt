@@ -25,6 +25,7 @@ CONFIG_PACKAGE_luci-app-watchdog=y
 #删除插件
 CONFIG_PACKAGE_luci-app-wol=n
 CONFIG_PACKAGE_luci-app-samba4=n
+CONFIG_PACKAGE_sqm-scripts-nss=y
 #参数调整
 CONFIG_CCACHE=y
 CONFIG_DEVEL=y
