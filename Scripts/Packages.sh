@@ -71,7 +71,7 @@ UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 # UPDATE_PACKAGE "watchdog" "sirpdboy/luci-app-watchdog" "main"
-UPDATE_PACKAGE "luci-app-nft-timecontrol" "sirpdboy/luci-app-timecontrol" "main"
+UPDATE_PACKAGE "luci-app-timecontrol" "gaobin89/luci-app-timecontrol" "main"
 
 #更新软件包版本
 UPDATE_VERSION() {
