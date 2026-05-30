@@ -1,7 +1,7 @@
 # 科学插件调整 - 禁用上游 homeproxy，启用 nikki
 CONFIG_PACKAGE_luci-app-homeproxy=n
-CONFIG_PACKAGE_luci-app-nikki=y
-#CONFIG_PACKAGE_luci-app-clashoo=y
+#CONFIG_PACKAGE_luci-app-nikki=y
+CONFIG_PACKAGE_luci-app-clashoo=y
 CONFIG_PACKAGE_luci-app-mini-diskmanager=n
 CONFIG_PACKAGE_luci-app-diskman=y
 
